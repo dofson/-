@@ -1,0 +1,12 @@
+﻿  widget.cpp
+c:\users\breeze\desktop\a02\qtdemo\untitled7\widget.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\breeze\ncnn\build-vs2017\install\include\ncnn\mat.h(1849): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\breeze\ncnn\build-vs2017\install\include\ncnn\mat.h(2247): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\breeze\desktop\a02\qtdemo\untitled7\widget.cpp(167): warning C4189: “mk”: 局部变量已初始化但不引用
+c:\users\breeze\desktop\a02\qtdemo\untitled7\widget.cpp(187): warning C4189: “loaded”: 局部变量已初始化但不引用
+c:\users\breeze\desktop\a02\qtdemo\untitled7\widget.cpp(203): warning C4189: “loaded”: 局部变量已初始化但不引用
+c:\users\breeze\desktop\a02\qtdemo\untitled7\widget.cpp(251): warning C4189: “mk”: 局部变量已初始化但不引用
+c:\users\breeze\desktop\a02\qtdemo\untitled7\widget.cpp(255): warning C4100: “title”: 未引用的形参
+c:\users\breeze\desktop\a02\qtdemo\untitled7\widget.cpp(392): warning C4474: printf: 格式字符串中传递的参数太多
+  c:\users\breeze\desktop\a02\qtdemo\untitled7\widget.cpp(392): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  untitled7.vcxproj -> C:\Users\Breeze\Desktop\A02\qtdemo\untitled7\release\untitled7.exe
