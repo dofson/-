@@ -16,7 +16,7 @@
 ## 2.算法模型介绍
 
 ​	采用一个非常简单的架构U2Net可以很好的解决上边的问题，U2Net是一个两级的嵌入U型网络结构，这是一种新型的网络结构不需要进行预训练，从头训练也可以得到很好的结果。而且，这种网络结构实现了在网络层数加深的同时能够保持较高的分辨率。
-<img src="\\image\2.png" alt="U2Net网络结构图" style="zoom:80%;" />
+<img src="image\2.png" alt="U2Net网络结构图" style="zoom:80%;" />
 
 ### 主要优点
 
@@ -26,7 +26,7 @@
 
 ## 3.优化方案及部署
 
-<img src="\\image\3.png" alt="优化情况" style="zoom:80%;" />
+<img src="image\3.png" alt="优化情况" style="zoom:80%;" />
 
 ### 项目工程化
 
@@ -41,10 +41,10 @@
 使用qt制作简单的UI界面
 
 ##### 初始界面如下：
-<img src="\\image\4.png" alt="初始界面" style="zoom:80%;" />
+<img src="image\4.png" alt="初始界面" style="zoom:80%;" />
 
 ##### 随机选取图片进行优化
 
-<img src="\\image\5.png" alt="初始界面" style="zoom:80%;" />
+<img src="image\5.png" alt="初始界面" style="zoom:80%;" />
 
 可以看到，虽然背景有各种干扰，但效果仍然很好。
