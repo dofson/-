@@ -6,7 +6,7 @@
  目标：构建一款快速、高精度且易于移植到移动端的SOD项目
  解决思路： 通过pytorch训练U2Net模型，再通过NCNN推理框架下进行部署
  项目优化：采用Rescale、RGB2BGR、双线性插值等优化方法
- <img src="-/image/1.png" alt="流程图" style="zoom:80%;" />
+ <img src="image/1.png" alt="流程图" style="zoom:80%;" />
  解决方案：
  ①使用U2Net结构和DUTS-TR数据集进行模型训练得到对应的.pth模型文件(开源代码，非原创)
  ②然后在NCNN推理框架下进行部署，先将.pth文件转化为onnx中间模型，再转化为nccn模型文件（.param和.bin文件）
